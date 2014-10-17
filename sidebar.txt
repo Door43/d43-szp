@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[szp:home|Door43 (szp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-szp|d43-szp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-szp/archive/master.zip|d43-szp.zip]]
+
+**Recent Changes**
+{{changes>ns = szp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/szp|Ethnologue data]]
+
